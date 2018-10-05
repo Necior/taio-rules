@@ -2,23 +2,23 @@
 
 1. Podstawą zaliczenia jest praca pisemna, w której każdy student dokonuje samooceny pracy dokonanej w ciągu semestru w postaci proponowanej oceny końcowej z przedmiotu popartej uzasadnieniem.
 2. Prowadzący przedmiotu może:
-    a. zgodzić się z samooceną studenta, jednocześnie wystawiając mu proponowaną przez niego ocenę końcową,
-    b. zaproponować inną ocenę końcową. Na propozycję prowadzącego może mieć wpływ obecność oraz aktywność studenta na ćwiczeniach.
-3. W przypadku zaproponowania przez prowadzącego alternatywnej oceny (na mocy punktu 2(b)), student może:
-    a. zgodzić się z sugestią prowadzącego, niniejszym otrzymując zaproponowaną przez prowadzącego ocenę końcową,
-    b. odrzucić propozycję prowadzącego.
-4. W przypadku odrzucenia propozycji przez studenta na mocy punktu 3(b), prowadzący może przeprowadzić krótki sprawdzian ustny złożony z trzech pytań.
-    a. Jeśli student odpowie poprawnie na zadane przez prowadzącego pytania, jego oceną końcową jest ocena zaproponowana przez niego na mocy punktu 1.
-    b. W przeciwnym przypadku obowiązuje ocena wyznaczona przez prowadzącego na mocy punktu 2 lub niższa.
-5. W sytuacji opisanej w punkcie 4(b), studentowi przysługuje jedna możliwość poprawy oceny proponowanej przez prowadzącego, w postaci sprawdzianu pisemnego z treści wykładu.
-    a. Sprawdzian składa się z pięciu części, z których każda odpowiada jednemu z działów przedmiotu określonych w obrębie Krajowych Ram Kwalifikacji.
-    b. W każdej części znajdują się dwa lub trzy zadania. Student może przyporządkować każdemu zadaniu w obrębie jednej części liczbę punktów ze zbioru:
-        i. {10, 5, 2}, jeśli w części są trzy zadania,
-        ii. {10, 5}, jeśli w części są dwa zadania.
+    1. zgodzić się z samooceną studenta, jednocześnie wystawiając mu proponowaną przez niego ocenę końcową,
+    2. zaproponować inną ocenę końcową. Na propozycję prowadzącego może mieć wpływ obecność oraz aktywność studenta na ćwiczeniach.
+3. W przypadku zaproponowania przez prowadzącego alternatywnej oceny (na mocy punktu 2.ii), student może:
+    1. zgodzić się z sugestią prowadzącego, niniejszym otrzymując zaproponowaną przez prowadzącego ocenę końcową,
+    2. odrzucić propozycję prowadzącego.
+4. W przypadku odrzucenia propozycji przez studenta na mocy punktu 3.ii, prowadzący może przeprowadzić krótki sprawdzian ustny złożony z trzech pytań.
+    1. Jeśli student odpowie poprawnie na zadane przez prowadzącego pytania, jego oceną końcową jest ocena zaproponowana przez niego na mocy punktu 1.
+    2. W przeciwnym przypadku obowiązuje ocena wyznaczona przez prowadzącego na mocy punktu 2 lub niższa.
+5. W sytuacji opisanej w punkcie 4.ii, studentowi przysługuje jedna możliwość poprawy oceny proponowanej przez prowadzącego, w postaci sprawdzianu pisemnego z treści wykładu.
+    1. Sprawdzian składa się z pięciu części, z których każda odpowiada jednemu z działów przedmiotu określonych w obrębie Krajowych Ram Kwalifikacji.
+    2. W każdej części znajdują się dwa lub trzy zadania. Student może przyporządkować każdemu zadaniu w obrębie jednej części liczbę punktów ze zbioru:
+        1. {10, 5, 2}, jeśli w części są trzy zadania,
+        2. {10, 5}, jeśli w części są dwa zadania.
 
         Każda z liczb z tych zbiorów może być przyporządkowana do dokładnie jednego zadania w danej części.
-    c. Do zaliczenia pracy wymagane jest uzyskanie więcej niż 50% punktów w obrębie każdej z części.
-    d. Ocena końcowa wyznaczana jest na podstawie przedziałów procentowych:
+    3. Do zaliczenia pracy wymagane jest uzyskanie więcej niż 50% punktów w obrębie każdej z części.
+    4. Ocena końcowa wyznaczana jest na podstawie przedziałów procentowych:
         * (50%, 60%] - 3.0,
         * (60%, 70%] - 3.5,
         * (70%, 80%] - 4.0,
